@@ -12,14 +12,18 @@ Run the following command in your terminal to automatically install the librarie
 
 `pip install -r requirements.txt`
 
+## Databricks
+
+[Health Outcome Databrick](https://adb-3129302285465110.10.azuredatabricks.net/?o=3129302285465110#notebook/796925177194531/command/4465790401556867)
+
 ## Data Sources
 
-[Heart Attack Analysis & Prediction Dataset](https://www.kaggle.com/datasets/rashikrahmanpritom/heart-attack-analysis-prediction-dataset)
+[Placeholder Link]()
 
-[Climate Change: Earth Surface Temperature Data](https://www.kaggle.com/datasets/berkeleyearth/climate-change-earth-surface-temperature-data)
+[Placeholder Link]()
 
-[Datasets APIs and open source projects related to Climate Change](https://github.com/KKulma/climate-change-data)
+[Placeholder Link]()
 
 ## Resources
 
-[Climate change and health](https://www.who.int/news-room/fact-sheets/detail/climate-change-and-health)
+[Placeholder Link]()
