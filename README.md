@@ -18,7 +18,7 @@ Run the following command in your terminal to automatically install the librarie
 
 ## Data Sources
 
-[Placeholder Link]()
+[Nutrient data](https://fdc.nal.usda.gov/download-datasets.html)
 
 [Placeholder Link]()
 
