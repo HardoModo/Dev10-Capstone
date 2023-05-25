@@ -22,8 +22,8 @@ Run the following command in your terminal to automatically install the librarie
 [Nutrient data](https://fdc.nal.usda.gov/download-datasets.html)
 
 [Health data](https://chronicdata.cdc.gov/500-Cities-Places/PLACES-Local-Data-for-Better-Health-County-Data-20/swc5-untb)
-             (https://www.kaggle.com/datasets/GoogleNewsLab/health-searches-us-county)
-[Placeholder Link]()
+             
+[Health data2](https://www.kaggle.com/datasets/GoogleNewsLab/health-searches-us-county)
 
 ## Resources
 
