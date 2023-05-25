@@ -20,7 +20,7 @@ Run the following command in your terminal to automatically install the librarie
 
 [Nutrient data](https://fdc.nal.usda.gov/download-datasets.html)
 
-[Placeholder Link]()
+[Health data](https://chronicdata.cdc.gov/500-Cities-Places/PLACES-Local-Data-for-Better-Health-County-Data-20/swc5-untb)
 
 [Placeholder Link]()
 
